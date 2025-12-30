@@ -1,0 +1,5 @@
+{
+  "name": "小游戏",
+  "description": "A retro 8-bit music visualizer featuring a sleeping pixel snowman that dances to your music.",
+  "requestFramePermissions": []
+}
